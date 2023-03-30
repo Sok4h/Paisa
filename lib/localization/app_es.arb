@@ -271,11 +271,11 @@
     "@addLabel": {
         "description": "add label"
     },
-    "selectAccountLabel": "Selecciona cuenta",
+    "selectAccountLabel": "Seleccione cuenta",
     "@selectAccountLabel": {
         "description": "Select account label"
     },
-    "selectCategoryLabel": "Selecciona categoría",
+    "selectCategoryLabel": "Seleccione categoría",
     "@selectCategoryLabel": {
         "description": "Select category label"
     },
@@ -436,7 +436,7 @@
     "@backLabel": {
         "description": "Back label"
     },
-    "setBudgetLabel": "Selecciona presupuesto para la categoría",
+    "setBudgetLabel": "Seleccione presupuesto para la categoría",
     "@setBudgetLabel": {
         "description": "Set budget label"
     },
@@ -484,7 +484,7 @@
     "@balanceLabel": {
         "description": "Balance label"
     },
-    "selectIconLabel": "Selecciona icono",
+    "selectIconLabel": "Seleccione icono",
     "@selectIconLabel": {
         "description": "Balance label"
     },
@@ -688,7 +688,7 @@
     "@customSymbolLabel": {
         "description": "Custom symbol label"
     },
-    "selectCurrencyLabel": "Selecciona moneda",
+    "selectCurrencyLabel": "Seleccione moneda",
     "@selectCurrencyLabel": {
         "description": "Select currency label"
     },
