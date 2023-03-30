@@ -1,0 +1,723 @@
+{
+    "appTitle": "Paisa",
+    "@appTitle": {
+        "description": "The app name"
+    },
+    "homeLabel": "Inicio",
+    "@homeLabel": {
+        "description": "Home label"
+    },
+    "dueDateLabel": "Fecha de fin",
+    "@dueDateLabel": {
+        "description": "End date label"
+    },
+    "startDateLabel": "Fecha de inicio",
+    "@startDateLabel": {
+        "description": "Start date label"
+    },
+    "categoryLabel": "Categoría",
+    "@categoryLabel": {
+        "description": "Category label"
+    },
+    "enterDebtLabel": "Ingrese monto de deuda",
+    "@enterDebtLabel": {
+        "description": "Enter debt amount label"
+    },
+    "enterCreditLabel": "Ingrese monto del crédito",
+    "@enterCreditLabel": {
+        "description": "Enter credit amount label"
+    },
+    "addCategoryLabel": "Añadir Categoría",
+    "@addCategoryLabel": {
+        "description": "Add Category label"
+    },
+    "addExpenseLabel": "Añadir Gasto",
+    "@addExpenseLabel": {
+        "description": "Add Expense label"
+    },
+    "updateExpenseLabel": "Actualizar Gasto",
+    "@updateExpenseLabel": {
+        "description": "Update Expense label"
+    },
+    "updateCardLabel": "Actualizar tarjeta",
+    "@updateCardLabel": {
+        "description": "Update card label"
+    },
+    "addAccountLabel": "Añadir cuenta",
+    "@addAccountLabel": {
+        "description": "Add Account label"
+    },
+    "categoriesLabel": "Categorías",
+    "@categoriesLabel": {
+        "description": "Categories label"
+    },
+    "accountsLabel": "Cuentas",
+    "@accountsLabel": {
+        "description": "Accounts label"
+    },
+    "budgetLabel": "Presupuesto",
+    "@budgetLabel": {
+        "description": "Budget label"
+    },
+    "welcomeMessage": "¡Bienvenido de regreso!",
+    "@welcomeMessage": {
+        "description": "Budget label"
+    },
+    "settingsLabel": "Ajustes",
+    "@settingsLabel": {
+        "description": "Settings label"
+    },
+    "localAppLabel": "Bloquear aplicación",
+    "@localAppLabel": {
+        "description": "Lock app label"
+    },
+    "totalLabel": "Total",
+    "@totalLabel": {
+        "description": "Total label"
+    },
+    "expenseLabel": "Gasto",
+    "@expenseLabel": {
+        "description": "Expense label"
+    },
+    "expensesLabel": "Gastos",
+    "@expensesLabel": {
+        "description": "Expenses label"
+    },
+    "depositLabel": "Depósito",
+    "@depositLabel": {
+        "description": "Deposit label"
+    },
+    "dailyLabel": "Diario",
+    "@dailyLabel": {
+        "description": "Daily label"
+    },
+    "weeklyLabel": "Semanal",
+    "@weeklyLabel": {
+        "description": "Weekly label"
+    },
+    "monthlyLabel": "Mensual",
+    "@monthlyLabel": {
+        "description": "Monthly label"
+    },
+    "yearlyLabel": "Anual",
+    "@yearlyLabel": {
+        "description": "Yearly label"
+    },
+    "allLabel": "Todo",
+    "@allLabel": {
+        "description": "All label"
+    },
+    "transactionHistoryLabel": "Historial de transacciones",
+    "@transactionHistoryLabel": {
+        "description": "Transaction history label"
+    },
+    "selectCategoryIconLabel": "Seleccione un icono de categoría",
+    "@selectCategoryIconLabel": {
+        "description": "Select category icon label"
+    },
+    "descriptionLabel": "Descripción",
+    "@descriptionLabel": {
+        "description": "Description label"
+    },
+    "cashLabel": "Efectivo",
+    "@cashLabel": {
+        "description": "Cash label"
+    },
+    "debitCardLabel": "Tarjeta Débito",
+    "@debitCardLabel": {
+        "description": "Debit Card label"
+    },
+    "creditCardLabel": "Tarjeta Crédito",
+    "@creditCardLabel": {
+        "description": "Credit Card label"
+    },
+    "cardHolderLabel": "Titular de la tarjeta",
+    "@cardHolderLabel": {
+        "description": "Cardholder name label"
+    },
+    "accountNameLabel": "Nombre de cuenta",
+    "@accountNameLabel": {
+        "description": "Account label"
+    },
+    "lastFourDigitLabel": "Últimos cuatro dígitos",
+    "@lastFourDigitLabel": {
+        "description": "Last four digit number label"
+    },
+    "addCardLabel": "Añadir tarjeta",
+    "@addCardLabel": {
+        "description": "Add card label"
+    },
+    "addedCardLabel": "Cuenta añadida",
+    "@addedCardLabel": {
+        "description": "Account added label"
+    },
+    "updatedCardLabel": "Cuenta actualizada",
+    "@updatedCardLabel": {
+        "description": "Account updated label"
+    },
+    "deletedCardLabel": "Cuenta eliminada",
+    "@deletedCardLabel": {
+        "description": "Account deleted label"
+    },
+    "successAddCategoryLabel": "Categoría añadida exitosamente",
+    "@successAddCategoryLabel": {
+        "description": "Category added successful label"
+    },
+    "validNameLabel": "Ingrese un nombre válido",
+    "@validNameLabel": {
+        "description": "Enter valid name label"
+    },
+    "profileLabel": "Perfil",
+    "@profileLabel": {
+        "description": "Profile label"
+    },
+    "themeLabel": "Tema",
+    "@themeLabel": {
+        "description": "Theme label"
+    },
+    "reminderLabel": "Recordatorio",
+    "@reminderLabel": {
+        "description": "Reminder label"
+    },
+    "reminderDescriptionLabel": "Mostrar notificaciones programadas para añadir gastos",
+    "@reminderDescriptionLabel": {
+        "description": "Show schedule notifications to add expense label"
+    },
+    "chooseThemeLabel": "Seleccione un tema",
+    "@chooseThemeLabel": {
+        "description": "Choose theme label"
+    },
+    "updateLabel": "Actualizar",
+    "@updateLabel": {
+        "description": "Update label"
+    },
+    "userNameLabel": "Nombre de usuario",
+    "@userNameLabel": {
+        "description": "User name label"
+    },
+    "selectedCountryLabel": "Seleccione una moneda",
+    "@selectedCountryLabel": {
+        "description": "Select currency label"
+    },
+    "errorAuthLabel": "Error de autenticación",
+    "@errorAuthLabel": {
+        "description": "Error authentication label"
+    },
+    "errorNoCardsLabel": "No hay tarjetas",
+    "@errorNoCardsLabel": {
+        "description": "No cards label"
+    },
+    "errorNoCardsDescriptionLabel": "Agregue algunas tarjetas y aparecerán aquí",
+    "@errorNoCardsDescriptionLabel": {
+        "description": "No cards description label"
+    },
+    "errorNoCatagoriesLabel": "No hay categorías",
+    "@errorNoCatagoriesLabel": {
+        "description": "No categories label"
+    },
+    "errorNoCategoriesDescriptionLabel": "Añade una categoría y aparecerá aquí",
+    "@errorNoCategoriesDescriptionLabel": {
+        "description": "No category description label"
+    },
+    "errorNoBudgetLabel": "No hay presupuesto",
+    "@errorNoBudgetLabel": {
+        "description": "Empty in budget overview label"
+    },
+    "errorNoBudgetDescriptionLabel": "Añade algunos gastos y el resumen de presupuesto aparecerá aquí",
+    "@errorNoBudgetDescriptionLabel": {
+        "description": "No budget overview description label"
+    },
+    "cardholderLabel": "Titular de la tarjeta",
+    "@cardholderLabel": {
+        "description": "CardHolder label"
+    },
+    "expenseAddedSuccessfulLabel": "Gasto añadido",
+    "@expenseAddedSuccessfulLabel": {
+        "description": "Expense added label"
+    },
+    "expenseUpdateSuccessfulLabel": "Gasto actualizado",
+    "@expenseUpdateSuccessfulLabel": {
+        "description": "Expense updated label"
+    },
+    "expenseDeletedSuccessfulLabel": "Gasto eliminado",
+    "@expenseDeletedSuccessfulLabel": {
+        "description": "Expense deleted label"
+    },
+    "expenseNameLabel": "Nombre del gasto",
+    "@expenseNameLabel": {
+        "description": "Expense name label"
+    },
+    "amountLabel": "Monto",
+    "@amountLabel": {
+        "description": "Amount label"
+    },
+    "initialAmountLabel": "Monto inicial",
+    "@initialAmountLabel": {
+        "description": "Initial amount label"
+    },
+    "validAmountLabel": "Ingrese un monto válido",
+    "@validAmountLabel": {
+        "description": "Enter valid amount label"
+    },
+    "dateLabel": "Fecha",
+    "@dateLabel": {
+        "description": "date label"
+    },
+    "validDateLabel": "Seleccione fecha",
+    "@validDateLabel": {
+        "description": "Select date label"
+    },
+    "addLabel": "Agregar",
+    "@addLabel": {
+        "description": "add label"
+    },
+    "selectAccountLabel": "Selecciona cuenta",
+    "@selectAccountLabel": {
+        "description": "Select account label"
+    },
+    "selectCategoryLabel": "Selecciona categoría",
+    "@selectCategoryLabel": {
+        "description": "Select category label"
+    },
+    "socialLinksLabel": "Redes sociales",
+    "@socialLinksLabel": {
+        "description": "Social links label"
+    },
+    "telegramLabel": "Telegram",
+    "@telegramLabel": {
+        "description": "Telegram label"
+    },
+    "telegramGroupLabel": "Un grupo para sugerir funcionalidades, publicar y darle seguimiento a errores en la app",
+    "@telegramGroupLabel": {
+        "description": "A group to follow and post bugs and feature requests label"
+    },
+    "budgetOverViewLabel": "Resumen de presupuesto",
+    "@budgetOverViewLabel": {
+        "description": "Budget overview label"
+    },
+    "noResultFoundLabel": "No se encontraron resultados",
+    "@noResultFoundLabel": {
+        "description": "No result found label"
+    },
+    "noCategoryLabel": "No se seleccionó una categoría",
+    "@noCategoryLabel": {
+        "description": "No category label"
+    },
+    "noAccountAvailableLabel": "No se seleccionó una cuenta",
+    "@noAccountAvailableLabel": {
+        "description": "No account label"
+    },
+    "privacyPolicyLabel": "Política de privacidad",
+    "@privacyPolicyLabel": {
+        "description": "Privacy & Policy label"
+    },
+    "githubLabel": "Github",
+    "@githubLabel": {
+        "description": "Github label"
+    },
+    "versionLabel": "Version",
+    "@versionLabel": {
+        "description": "Github label"
+    },
+    "versionNumber": "v{version}",
+    "@versionNumber": {
+        "description": "Version number label",
+        "placeholders": {
+            "version": {
+                "type": "String"
+            }
+        }
+    },
+    "deleteAccountLabel": "Eliminar una cuenta también eliminará todos los gastos asociados a la cuenta",
+    "@deleteAccountLabel": {
+        "description": "Delete account label"
+    },
+    "deleteCategoryLabel": "Eliminar una categoría también eliminará todos los gastos asociados a la categoría",
+    "@deleteCategoryLabel": {
+        "description": "Delete category label"
+    },
+    "deleteExpenseLabel": "El gasto se eliminará permanentemente de la cuenta",
+    "@deleteExpenseLabel": {
+        "description": "Version number label"
+    },
+    "dialogDeleteTitleLabel": "¿Eliminar permanentemente?",
+    "@dialogDeleteTitleLabel": {
+        "description": "Permanently delete label"
+    },
+    "updatedCategoryLabel": "Categoría actualizada",
+    "@updatedCategoryLabel": {
+        "description": "Category updated label"
+    },
+    "doneLabel": "Hecho",
+    "@doneLabel": {
+        "description": "Done label"
+    },
+    "cancelLabel": "Cancelar",
+    "@cancelLabel": {
+        "description": "Cancel label"
+    },
+    "customLabel": "Personalizado",
+    "@customLabel": {
+        "description": "Custom label"
+    },
+    "accentColorLabel": "Color de acento",
+    "@accentColorLabel": {
+        "description": "Accent color label"
+    },
+    "dynamicColorLabel": "Dinámico",
+    "@dynamicColorLabel": {
+        "description": "Dynamic label"
+    },
+    "pickColorLabel": "Seleccionar color",
+    "@pickColorLabel": {
+        "description": "Pick color label"
+    },                      
+    "pickColorDescLabel": "Escoge un color para la categoría",
+    "@pickColorDescLabel": {
+        "description": "Pick color label"
+    },
+    "colorsLabel": "Colores",
+    "@colorsLabel": {
+        "description": "Colors label"
+    },
+    "othersLabel": "Otros",
+    "@othersLabel": {
+        "description": "Others label"
+    },
+    "githubTextLabel": "Bifurca el proyecto en GitHub",
+    "@githubTextLabel": {
+        "description": "GitHub text label"
+    },
+    "madeWithLoveInIndiaLabel": "Hecho con ♥ en India",
+    "@madeWithLoveInIndiaLabel": {
+        "description": "Made with ♥ in India label"
+    },
+    "updateCategoryLabel": "Actualizar categoría",
+    "@updateCategoryLabel": {
+        "description": "Made with ♥ in India label"
+    },
+    "accountInfoLabel": "Información",
+    "@accountInfoLabel": {
+        "description": "information label"
+    },
+    "accountInfoDescLabel": "Los detalles de la cuenta que ingresaste no son compartidas con nadie, incluyéndonos, su única función es dar una representación visual a los detalles de la cuenta, también puede ingresar información falsa",
+    "@accountInfoDescLabel": {
+        "description": "information label"
+    },
+    "nextLabel": "Siguiente",
+    "@nextLabel": {
+        "description": "Next label"
+    },
+    "imageLabel": "Imagen",
+    "@imageLabel": {
+        "description": "Image label"
+    },
+    "welcomeLabel": "Hola, bienvenido(a) a",
+    "@welcomeLabel": {
+        "description": "Welcome label"
+    },
+    "welcomeDescLabel": "¿Cómo deberíamos llamarte?",
+    "@welcomeDescLabel": {
+        "description": "Welcome desc label"
+    },
+    "nameLabel": "Nombre",
+    "@nameLabel": {
+        "description": "Name label"
+    },
+    "enterNameLabel": "Ingresa nombre",
+    "@enterNameLabel": {
+        "description": "Enter name label"
+    },
+    "imageDescLabel": "Configuremos tu imagen",
+    "@imageDescLabel": {
+        "description": "Image desc label"
+    },
+    "backLabel": "Volver",
+    "@backLabel": {
+        "description": "Back label"
+    },
+    "setBudgetLabel": "Selecciona presupuesto para la categoría",
+    "@setBudgetLabel": {
+        "description": "Set budget label"
+    },
+    "incomeLabel": "Ingreso",
+    "@incomeLabel": {
+        "description": "income label"
+    },
+    "outcomeLabel": "Gasto",
+    "@outcomeLabel": {
+        "description": "outcome label"
+    },
+    "thisMonthLabel": "Este mes",
+    "@thisMonthLabel": {
+        "description": "This month label"
+    },
+    "totalBalanceLabel": "Balance total",
+    "@totalBalanceLabel": {
+        "description": "Total balance label"
+    },
+    "summaryLabel": "Resumen",
+    "@summaryLabel": {
+        "description": "Summary label"
+    },
+    "acceptLabel": "Aceptar",
+    "@acceptLabel": {
+        "description": "Accept label"
+    },
+    "okLabel": "Ok",
+    "@okLabel": {
+        "description": "Ok label"
+    },
+    "searchMessageLabel": "¡Empieza a buscar algo!",
+    "@searchMessageLabel": {
+        "description": "search message label"
+    },
+    "emptySearchMessageLabel": "Parece que no se encontró nada",
+    "@emptySearchMessageLabel": {
+        "description": "empty search message label"
+    },
+    "emptyExpensesMessage": "Añade un gasto y aparecerá aquí",
+    "@emptyExpensesMessage": {
+        "description": "empty search message label"
+    },
+    "balanceLabel": "Balance",
+    "@balanceLabel": {
+        "description": "Balance label"
+    },
+    "selectIconLabel": "Selecciona icono",
+    "@selectIconLabel": {
+        "description": "Balance label"
+    },
+    "selectIconDescLabel": "Pulse para seleccionar icono",
+    "@selectIconDescLabel": {
+        "description": "Balance label"
+    },
+    "incomeNameLabel": "Nombre del ingreso",
+    "@incomeNameLabel": {
+        "description": "income name label"
+    },
+    "currencySignLabel": "Signo de moneda",
+    "@currencySignLabel": {
+        "description": "Currency sign label"
+    },
+    "incomeAddedSuccessfulLabel": "Ingreso añadido",
+    "@incomeAddedSuccessfulLabel": {
+        "description": "Expense added label"
+    },
+    "incomeUpdateSuccessfulLabel": "Ingreso actualizado",
+    "@incomeUpdateSuccessfulLabel": {
+        "description": "Expense updated label"
+    },
+    "incomeDeletedSuccessfulLabel": "Ingreso eliminado",
+    "@incomeDeletedSuccessfulLabel": {
+        "description": "Income deleted label"
+    },
+    "expenseByCategoryLabel": "Gastos por categoría",
+    "@expenseByCategoryLabel": {
+        "description": "Expense by category label"
+    },
+    "backupAndRestoreLabel": "Copia de seguridad y restaurar",
+    "@backupAndRestoreLabel": {
+        "description": "Backup and Restore label"
+    },
+    "backupAndRestoreDescLabel": "Respalde y restaure sus gastos, cuentas & categorías",
+    "@backupAndRestoreDescLabel": {
+        "description": "Backup and restore your data label"
+    },
+    "createLabel": "Crear",
+    "@createLabel": {
+        "description": "create label"
+    },
+    "restoreLabel": "Restaurar",
+    "@restoreLabel": {
+        "description": "Restore label"
+    },
+    "creatingBackupLabel": "Creando respaldo",
+    "@creatingBackupLabel": {
+        "description": "Creating backup label"
+    },
+    "restoringBackupLabel": "Restaurando respaldo",
+    "@restoringBackupLabel": {
+        "description": "Creating backup label"
+    },
+    "saveAsCSVLabel": "Guardar como CSV",
+    "@saveAsCSVLabel": {
+        "description": "Save as CSV label"
+    },
+    "saveAsCSVDescLabel": "Exportar datos en archivo formato CSV",
+    "@saveAsCSVDescLabel": {
+        "description": "Save as CSV label"
+    },
+    "transferLabel": "Transferir",
+    "@transferLabel": {
+        "description": "Transfer label"
+    },
+    "appRateLabel": "Califica la aplicación",
+    "@appRateLabel": {
+        "description": "Rate label"
+    },
+    "appRateDescLabel": "¿Te encanta la aplicación? Haznos saber en la Google Play Store como podemos hacerla incluso mejor",
+    "@appRateDescLabel": {
+        "description": "Rate label"
+    },
+    "raiseABugOrRequestLabel": "Reportar un problema o hacer una solicitud",
+    "@raiseABugOrRequestLabel": {
+        "description": "Raise a bug or request label"
+    },
+    "raiseABugOrRequestDescLabel": "¿Encontraste algún fallo o necesitas que se añada alguna función?, haznos saber",
+    "@raiseABugOrRequestDescLabel": {
+        "description": "Found a bug or need a feature to implement ask away label"
+    },
+    "transferNameLabel": "Nombre de transferencia",
+    "@transferNameLabel": {
+        "description": "Transfer name label"
+    },
+    "debtsLabel": "Deudas",
+    "@debtsLabel": {
+        "description": "Debts label"
+    },
+    "debtLabel": "Deuda",
+    "@debtLabel": {
+        "description": "Debts label"
+    },
+    "creditLabel": "Credito",
+    "@creditLabel": {
+        "description": "Credit label"
+    },
+    "enterCategoryLabel": "Ingrese categoría",
+    "@enterCategoryLabel": {
+        "description": "Enter category label"
+    },
+    "addDebtLabel": "Agregar deuda",
+    "@addDebtLabel": {
+        "description": "Add debt label"
+    },
+    "addCreditLabel": "Agregar credito",
+    "@addCreditLabel": {
+        "description": "Add credit label"
+    },
+    "enterBudgetLabel": "Ingrese presupuesto",
+    "@enterBudgetLabel": {
+        "description": "Enter budget label"
+    },
+    "enterDescriptionLabel": "Ingrese descripción",
+    "@enterDescriptionLabel": {
+        "description": "Enter description label"
+    },
+    "validDescriptionLabel": "Ingrese una descripción valida",
+    "@validDescriptionLabel": {
+        "description": "Enter valid description label"
+    },
+    "payDebtLabel": "Pagar deuda",
+    "@payDebtLabel": {
+        "description": "Pay debt label"
+    },
+    "payCreditLabel": "Pagar credito",
+    "@payCreditLabel": {
+        "description": "Pay credit label"
+    },
+    "enterAmountLabel": "Ingrese monto",
+    "@enterAmountLabel": {
+        "description": "Enter amount label"
+    },
+    "emptyDebtsLabel": "No hay deudas",
+    "@emptyDebtsLabel": {
+        "description": "Empty in debts label"
+    },
+    "emptyDebtsDescLabel": "Parece que no tienes deudas, agrégalas y aparecerán aquí",
+    "@emptyDebtsDescLabel": {
+        "description": "Looks like you have no debts label"
+    },
+    "emptyCreditLabel": "No hay creditos",
+    "@emptyCreditLabel": {
+        "description": "Empty in credits label"
+    },
+    "emptyCreditDescLabel": "Parece que no tienes créditos, agrégalos y aparecerán aquí",
+    "@emptyCreditDescLabel": {
+        "description": "Looks like you have no credits label"
+    },
+    "enterInitialAmountLabel": "Ingrese monto inicial",
+    "@enterInitialAmountLabel": {
+        "description": "Enter initial amount label"
+    },
+    "enterNumberOptionalLabel": "Ingrese los cuatro últimos dígitos (opcional)",
+    "@enterNumberOptionalLabel": {
+        "description": "Optional number"
+    },
+    "enterAccountNameLabel": "Ingrese nombre de cuenta",
+    "@enterAccountNameLabel": {
+        "description": "Enter account name label"
+    },
+    "enterCardHolderNameLabel": "Ingrese nombre del titular",
+    "@enterCardHolderNameLabel": {
+        "description": "Enter account name label"
+    },
+    "searchLabel": "Buscar",
+    "@searchLabel": {
+        "description": "Search label"
+    },
+    "addNewLabel": "Agregar nuevo",
+    "@addNewLabel": {
+        "description": "Add new label"
+    },
+    "deleteLabel": "Eliminar",
+    "@deleteLabel": {
+        "description": "Delete label"
+    },
+    "appBarSearchLabel": "Busca gastos, cuentas, categorías",
+    "@appBarSearchLabel": {
+        "description": "Delete label"
+    },
+    "noTransactionLabel": "Sin transacciones",
+    "@noTransactionLabel": {
+        "description": "Empty in transaction"
+    },
+    "enterSymbolLabel": "Ingrese símbolo",
+    "@enterSymbolLabel": {
+        "description": "Enter symbol"
+    },
+    "leftSymbolLabel": "Símbolo a la izquierda",
+    "@leftSymbolLabel": {
+        "description": "Symbol on left label"
+    },
+    "rightSymbolLabel": "Símbolo a la derecha",
+    "@rightSymbolLabel": {
+        "description": "Symbol on right label"
+    },
+    "customSymbolLabel": "Símbolo personalizado",
+    "@customSymbolLabel": {
+        "description": "Custom symbol label"
+    },
+    "selectCurrencyLabel": "Selecciona moneda",
+    "@selectCurrencyLabel": {
+        "description": "Select currency label"
+    },
+    "overviewLabel": "Resumen",
+    "@overviewLabel": {
+        "description": "Overview label"
+    },
+    "intoTitleLabel": "Una manera simple de controlar tus ahorros",
+    "@intoTitleLabel": {
+        "description": "Intro title label"
+    },
+    "intoSummary1Label": "Gestiona tu dinero con nuestra app",
+    "@intoSummary1Label": {
+        "description": "Intro summary 1 label"
+    },
+    "intoSummary2Label": "Mejora tu presupuesto con un seguimiento sencillo de tus gastos",
+    "@intoSummary2Label": {
+        "description": "Intro summary 2 label"
+    },
+    "intoSummary3Label": "Controla tus gastos en todo momento y lugar, sin importar dónde te encuentres",
+    "@intoSummary3Label": {
+        "description": "Intro summary 3 label"
+    },
+    "intoCTALabel": "Empezar",
+    "@intoCTALabel": {
+        "description": "Get started label"
+    },
+    "deleteDebtOrCreditLabel": "Al eliminar la deuda o el crédito, se eliminan todos los registros relacionados con ella. ",
+    "@deleteDebtOrCreditLabel": {
+        "description": "Delete debt or credit label"
+    }
+}
